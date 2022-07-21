@@ -1,5 +1,5 @@
 static void main()
 {
     cout << "Branch";
-    cout << "branch 1"
+    cout << "master";
 }
